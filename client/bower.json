@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "main": "index.js",
+  "homepage": "n/a",
+  "authors": [
+    "me"
+  ],
+  "description": "my blog",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "react": "^15.0.2",
+    "skeleton": "^2.0.4"
+  }
+}
